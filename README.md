@@ -26,7 +26,7 @@ The analysis confirms that geometric and isolation-based methods are superior fo
 ## Installation
 1. Clone the repository.
 2. Install dependencies: pip install pandas numpy matplotlib seaborn scikit-learn pyod.
-3. Run the Ivan_Vlad_Daniel.ipynb notebook.
+3. Run the Spotify_Anomaly_Detection.ipynb notebook.
 
 ## License
 MIT License
